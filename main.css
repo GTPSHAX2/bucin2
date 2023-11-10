@@ -1,0 +1,10 @@
+.w100 {width: 100%;}
+.h100 {height: 100%;}
+.hfit {height: fit-content;}
+.cek {background-color: black;}
+.flex {display: flex;}
+.row-rev {flex-direction: row-reverse;}
+.alce {align-items: center;}
+.juce {justify-content: center;}
+.smallText {font-size: small;}
+.relative {position: relative;}
